@@ -1,0 +1,46 @@
+1524742935137	geckodriver	INFO	geckodriver 0.18.0
+1524742935144	geckodriver	INFO	Listening on 127.0.0.1:55140
+1524742938227	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1524742940038	Marionette	INFO	Enabled via --marionette
+1524742944892	Marionette	INFO	Listening on port 55149
+1524742946578	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhangxinli\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://www.ifeng.com/, line 2927: ReferenceError: ifeng is not defined
+JavaScript error: http://images.sohu.com/cs/jsfile/js/c.js, line 1: TypeError: f is null
+JavaScript error: http://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.1/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: http://pos.baidu.com/bcxm?conwid=340&conhei=140&rdid=3172263&dc=3&di=u3172263&dri=0&dis=5&dai=2&ps=-2x-2&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1524742957702&ti=%E5%87%A4%E5%87%B0%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1583x763&pss=1583x7237&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1524742958&rw=320&ltu=http%3A%2F%2Fwww.ifeng.com%2F&liu=http%3A%2F%2Fwww.ifeng.com%2Fa_if%2F1017%2Fweicc%2Ftestv2.html&ecd=1&uc=1600x860&pis=0x0&sr=1600x900&tcn=1524742958&qn=dffde5581aa9c7b8&tt=1524742957678.552.718.720, line 63: TypeError: document.getElementById(...) is null
+JavaScript error: http://images.sohu.com/cs/jsfile/js/c.js, line 1: TypeError: f is null
+JavaScript error: http://www.ifeng.com/, line 2927: ReferenceError: ifeng is not defined
+JavaScript error: http://images.sohu.com/cs/jsfile/js/c.js, line 1: TypeError: f is null
+JavaScript error: http://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.1/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: http://pos.baidu.com/iccm?conwid=340&conhei=140&rdid=3172263&dc=3&di=u3172263&dri=0&dis=5&dai=2&ps=-2x-2&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1524742973016&ti=%E5%87%A4%E5%87%B0%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1583x763&pss=1583x4218&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1524742973&rw=320&ltu=http%3A%2F%2Fwww.ifeng.com%2F&liu=http%3A%2F%2Fwww.ifeng.com%2Fa_if%2F1017%2Fweicc%2Ftestv2.html&ecd=1&uc=1600x860&pis=0x0&sr=1600x900&tcn=1524742973&qn=dffde5581aa9c7b8&tt=1524742972990.224.224.226, line 63: TypeError: document.getElementById(...) is null
+JavaScript error: http://images.sohu.com/cs/jsfile/js/c.js, line 1: TypeError: f is null
+Unable to read VR Path Registry from C:\Users\zhangxinli\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhangxinli\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhangxinli\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524743010887	geckodriver	INFO	geckodriver 0.18.0
+1524743010900	geckodriver	INFO	Listening on 127.0.0.1:55563
+1524743013987	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1524743015222	Marionette	INFO	Enabled via --marionette
+1524743022880	Marionette	INFO	Listening on port 55571
+1524743023458	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhangxinli\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://www.ifeng.com/, line 2927: ReferenceError: ifeng is not defined
+JavaScript error: http://www.ifeng.com/a_if/1017/weicc/testv2.html, line 65: TypeError: iframeu3173804_0 is null
+JavaScript error: http://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.1/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: http://pos.baidu.com/dcym?conwid=340&conhei=140&rdid=3172263&dc=3&di=u3172263&dri=0&dis=5&dai=2&ps=-2x-2&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1524743037784&ti=%E5%87%A4%E5%87%B0%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1583x763&pss=1583x7238&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1524743038&rw=320&ltu=http%3A%2F%2Fwww.ifeng.com%2F&liu=http%3A%2F%2Fwww.ifeng.com%2Fa_if%2F1017%2Fweicc%2Ftestv2.html&ecd=1&uc=1600x860&pis=0x0&sr=1600x900&tcn=1524743039&qn=a5ec3bfd817366d8&tt=1524743037750.1002.1184.1186, line 63: TypeError: document.getElementById(...) is null
+JavaScript error: http://images.sohu.com/cs/jsfile/js/c.js, line 1: TypeError: f is null
+JavaScript error: http://images.sohu.com/cs/jsfile/js/c.js, line 1: TypeError: f is null
+JavaScript error: http://www.ifeng.com/, line 2927: ReferenceError: ifeng is not defined
+JavaScript error: http://images.sohu.com/cs/jsfile/js/c.js, line 1: TypeError: f is null
+JavaScript error: http://www.ifeng.com/a_if/1017/weicc/testv2.html, line 105: TypeError: iframeu3181555_0 is null
+JavaScript error: http://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.1/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: http://pos.baidu.com/jcmm?conwid=340&conhei=140&rdid=3172263&dc=3&di=u3172263&dri=0&dis=5&dai=2&ps=-2x-2&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1524743052080&ti=%E5%87%A4%E5%87%B0%E7%BD%91&ari=2&dbv=0&drs=1&pcs=1583x763&pss=1583x4218&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1524743052&rw=320&ltu=http%3A%2F%2Fwww.ifeng.com%2F&liu=http%3A%2F%2Fwww.ifeng.com%2Fa_if%2F1017%2Fweicc%2Ftestv2.html&ecd=1&uc=1600x860&pis=0x0&sr=1600x900&tcn=1524743052&qn=a5ec3bfd817366d8&tt=1524743052056.218.218.220, line 63: TypeError: document.getElementById(...) is null
+JavaScript error: http://images.sohu.com/cs/jsfile/js/c.js, line 1: TypeError: f is null

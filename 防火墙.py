@@ -1,0 +1,42 @@
+#！/usr/bin/env python
+#  -*- coding:utf-8 -*-
+from selenium import webdriver
+from time import sleep
+import re
+dr=webdriver.Firefox()
+dr.get('https://192.168.0.254:8889/')
+dr.maximize_window()
+# sleep(3)
+# dr.find_element_by_class_name('login_input').clear()
+# sleep(2)
+# dr.find_element_by_class_name('login_input').send_keys('administrator')
+sleep(2)
+dr.find_element_by_xpath('/html/body/table/tbody/tr/td/div/form/ul/li[2]/input').send_keys('Bane@7766')
+f=[]
+for i in range(1,5):
+    a=dr.find_element_by_css_selector('img.nobody:nth-child({})'.format(i)).get_attribute('src')
+    patt=re.compile(r'/imgs/(.*?).gif')
+    i=patt.findall(a)
+    f.append(i[0])
+sleep(2)
+dr.find_element_by_css_selector('#input1').send_keys(f)
+sleep(2)
+dr.find_element_by_css_selector('.login_btn2').click()
+sleep(5)
+wd=dr.switch_to_alert()
+wd.accept()
+sleep(5)
+wb=dr.find_element_by_xpath('/html/frameset/frameset/frame[1]')
+dr.switch_to.frame(wb)
+sleep(2)
+dr.find_element_by_xpath('/html/body/table/tbody/tr/td/div/div[7]/span[2]').click()
+sleep(2)
+dr.find_element_by_xpath('//*[@id="041"]').click()
+sleep(2)
+dr.switch_to.default_content()
+sleep(2)
+dr.switch_to.frame('mainFrame')
+sleep(2)
+dr.find_element_by_xpath('/html/body/div[2]/form[2]/table/tbody/tr/td[2]/div/div/a').click()
+sleep(2)
+dr.find_element_by_xpath('/html/body/form/table[2]/tbody/tr/td/div/div[1]/a').click()
